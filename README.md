@@ -20,3 +20,6 @@
 
 ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
 
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=LuNiZz&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
