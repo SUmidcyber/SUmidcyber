@@ -1,5 +1,4 @@
-  <a href="https://imgur.com/3ImognD"><img src="https://i.imgur.com/3ImognD.jpg" title="source: imgur.com" /></a>
-
+<a href="https://imgur.com/0PwSvsP"><img src="https://i.imgur.com/0PwSvsP.gif" title="source: imgur.com" /></a>
 ### White Cap Turner 👋 Ümid Mammadov
 
 <h3 align="left">Links:</h3>
